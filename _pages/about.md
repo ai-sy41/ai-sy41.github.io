@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 I'm currently a first-year master‘s student from  [School of Artificial Intelligence and Data Science](https://saids.ustc.edu.cn/main.htm), [University of Science and Technology of China(USTC)](https://www.ustc.edu.cn). I received my B.E. degree from [School of Computer Science and Technology](https://www.cs.sdu.edu.cn/),[shandong University](https://www.sdu.edu.cn/) in 2024.
+  
 My research interests include Generative Recommendation and Multi-modal Agent.
 
 
