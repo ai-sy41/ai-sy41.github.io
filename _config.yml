@@ -16,8 +16,8 @@ site_theme               : "default"
 title                    : "Academic Page"
 #name                     : &name ""
 #description              : &description "personal description"
-url                      : 
-baseurl                  : "https://ai-sy41.github.io"
+url                      : "https://ai-sy41.github.io"
+baseurl                  : 
 repository               : 
 
 # Site Author - The following control what appear as part of the author content on the side bar.
