@@ -35,9 +35,9 @@ author:
   avatar           : "sy.png"
   name             : "Yu shi 师语"
   pronouns         : # example: "she/her"  
-  #bio             : ""
+  bio              : ""
   location         : "China"
-  #employer        : ""
+  employer         : #""
   uri              : # URL
   email            : "shi_yu@mail.ustc.edu.cn" 
 
