@@ -35,11 +35,11 @@ author:
   avatar           : "sy.png"
   name             : "Yu shi 师语"
   pronouns         : # example: "she/her"  
-  bio              : #""
+  #bio             : ""
   location         : "China"
-  employer         : #"Red Brick University"
+  #employer        : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "shi_yu@mail.ustc.edu.cn" 
 
   # Academic websites#学术网站#学术网站#学术网站
   academia         : # URL
