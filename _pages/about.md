@@ -11,10 +11,8 @@ I'm currently a first-year master‘s student from  [School of AIDS](https://sai
 
 
 
-[Email](shi_yu@mail.ustc.edu.cn)
 
-
-Publications
+Publications出版物
 ======
 waiting
 
