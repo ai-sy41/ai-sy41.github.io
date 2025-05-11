@@ -11,8 +11,6 @@ I'm currently a first-year master‘s student from  [School of Artificial Intell
 
 Research Interests
 ======
-Artificial Intelligence  
-Data Mining  
 Generative Recommendation  
 Multi-modal Agent  
 
