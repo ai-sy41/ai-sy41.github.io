@@ -16,9 +16,9 @@ site_theme               : "default"
 title                    : "Academic Page"
 name                     : &name "Your Name"
 #description              : &description "personal description"
-url                      : "https://ai-sy41.github.io/"
-#baseurl                  : "" # the subpath of your site, e.g. "/blog"
-#repository               : "academicpages/academicpages.github.io"
+url                      : "https://ai-sy41.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #网站作者-以下控件控制侧栏上作为作者内容的一部分显示的内容。
