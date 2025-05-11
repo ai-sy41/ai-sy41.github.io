@@ -1,12 +1,16 @@
-# Welcome to Jekyll!
+# Welcome to Jekyll!#欢迎来到杰基尔！
 #
 # This config file is meant for settings that affect your entire site, values
+#此配置文件用于影响整个站点的设置、值
 # which you are expected to set up once and rarely need to edit after that.
+#您只需设置一次，之后很少需要编辑。
 # For technical reasons, this file is *NOT* reloaded automatically when you use
+#出于技术原因，当您使用时，此文件不会自动重新加载
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
+#`jekyll服务-l-H本地主机`。如果更改此文件，请重新启动
+# server process.#服务器进程。
 
-# Basic Site Settings
+# Basic Site Settings#基本站点设置
 locale                   : "en-US"
 site_theme               : "default"
 title                    : "Your Name / Site Title"
@@ -18,40 +22,46 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
+#网站作者-以下控件控制侧栏上作为作者内容的一部分显示的内容。
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
+#如果字段为空，图标和链接将不会出现，否则将显示。
+#如果字段为空，图标和链接将不会出现，否则将显示。
 #               Additional customization can be done by editing /_includes/author-profile.html
+#可以通过编辑/includes/author-profile.html进行其他自定义
+#可以通过编辑/includes/author-profile.html进行其他自定义
+#可以通过编辑/includes/author-profile.html进行其他自定义
 author:
-  # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  # Biographic information#简历信息
+  avatar           : "sy.png"
+  name             : "Yu shi 师语"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : #""
+  location         : "China"
+  employer         : #"Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
 
-  # Academic websites
+  # Academic websites#学术网站#学术网站#学术网站
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
-  # Repositories and software development
+  # Repositories and software development#存储库和软件开发#存储库和软件开发#存储库和软件开发
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://ai-sy41.github.io/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
-  # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  # Social media#社交媒体
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -77,6 +87,8 @@ author:
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
+#出版物类别-以下是出版物类别及其标题列表
+#出版物类别-以下是出版物类别及其标题列表
 publication_category:
   books:
     title: 'Books'
@@ -85,7 +97,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-# Site Settings
+# Site Settings#站点设置
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -146,14 +158,14 @@ social:
   links: # An array of links to social media profiles
 
 
-# Analytics
+# Analytics#分析
 analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
 
-# Reading Files
+# Reading Files#读取文件
 include:
   - .htaccess
   - _pages
