@@ -16,7 +16,7 @@ site_theme               : "default"
 title                    : "Academic Page"
 #name                     : &name ""
 #description              : &description "personal description"
-url                      : https://ai-sy41.github.io
+url                      : "https://ai-sy41.github.io"
 baseurl                  : 
 repository               : 
 
