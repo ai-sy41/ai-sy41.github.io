@@ -34,10 +34,10 @@ author:
   avatar           : "sy.png"
   name             : "Yu shi 师语"
   pronouns         : # example: "she/her"  
-  bio              : ""
-  location         : "China"
-  employer         : #""
-  #uri              : "https://ai-sy41.github.io/"
+  bio              : "University of "
+  location         : " University of Science and Technology of China(USTC)"
+  employer         : 
+  uri              : 
   email            : "shi_yu@mail.ustc.edu.cn" 
 
   # Academic websites#学术网站#学术网站#学术网站
