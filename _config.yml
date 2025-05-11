@@ -16,7 +16,7 @@ site_theme               : "default"
 title                    : "Academic Page"
 name                     : &name "Your Name"
 #description              : &description "personal description"
-#url                      : 
+url                      : "https://ai-sy41.github.io/"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 #repository               : "academicpages/academicpages.github.io"
 
@@ -37,7 +37,7 @@ author:
   bio              : ""
   location         : "China"
   employer         : #""
-  uri              : # URL
+  #uri              : "https://ai-sy41.github.io/"
   email            : "shi_yu@mail.ustc.edu.cn" 
 
   # Academic websites#学术网站#学术网站#学术网站
