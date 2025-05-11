@@ -14,7 +14,7 @@
 locale                   : "China"
 site_theme               : "default"
 title                    : "Academic Page"
-name                     : &name ""
+#name                     : &name ""
 #description              : &description "personal description"
 url                      : https://ai-sy41.github.io
 baseurl                  : 
