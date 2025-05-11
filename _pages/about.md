@@ -12,7 +12,7 @@ I'm currently a first-year master‘s student from  [School of Artificial Intell
 Research Interests
 ======
 Generative Recommendation  
-Multi-modal Agent  
+Multimodal Agent  
 
 
 Publications
